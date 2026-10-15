@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f60b17ab583c4248aaafa60b2dae7908, type: 3}
+  m_Name: 05_Cave
+  m_EditorClassIdentifier: Assembly-CSharp::CookieRun.MapThemeData
+  displayName: "\uB3D9\uAD74"
+  upperObstacle: {fileID: 3973724416779121031, guid: be72260f49c04604a285e75392099f12, type: 3}
+  lowerObstacle: {fileID: 1501755835013279851, guid: 530c545053d446adafbad45d6e9b751f, type: 3}
+  tallObstacle: {fileID: 334169318860300793, guid: 4817d674bb114ec78240602e15183cd9, type: 3}
+  ground: {fileID: 21300000, guid: 429c365c9898404fb573a964813e1f12, type: 3}
+  background: {fileID: 21300000, guid: 0083929d0a00445fbbad71374f2516d5, type: 3}
+  hill: {fileID: 21300000, guid: 36bb93844beeff949a32a9a84c572384, type: 3}
+  hillColorA: {r: 1, g: 1, b: 1, a: 1}
+  hillColorB: {r: 0.85, g: 0.85, b: 0.85, a: 1}
+  cloudColor: {r: 1, g: 1, b: 1, a: 0}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f60b17ab583c4248aaafa60b2dae7908, type: 3}
+  m_Name: 04_Lava
+  m_EditorClassIdentifier: Assembly-CSharp::CookieRun.MapThemeData
+  displayName: "\uC6A9\uC554"
+  upperObstacle: {fileID: 3973724416779121031, guid: 1194ea07915c4b3b8712855570bdf531, type: 3}
+  lowerObstacle: {fileID: 1501755835013279851, guid: b0afc8c52daa48439df956cde26e2530, type: 3}
+  tallObstacle: {fileID: 334169318860300793, guid: d255c8189833455e81344396b9c180d8, type: 3}
+  ground: {fileID: 21300000, guid: fcf96b99250041cfb7d6f6b119bc552e, type: 3}
+  background: {fileID: 21300000, guid: 88fa511e29a744609991c1435fa413dd, type: 3}
+  hill: {fileID: 21300000, guid: 1f417e0fedc037547b3022de97ea2fc5, type: 3}
+  hillColorA: {r: 1, g: 1, b: 1, a: 1}
+  hillColorB: {r: 0.85, g: 0.85, b: 0.85, a: 1}
+  cloudColor: {r: 0.3, g: 0.2, b: 0.2, a: 0.7}

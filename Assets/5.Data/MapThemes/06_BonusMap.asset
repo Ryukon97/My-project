@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f60b17ab583c4248aaafa60b2dae7908, type: 3}
+  m_Name: 06_BonusMap
+  m_EditorClassIdentifier: Assembly-CSharp::CookieRun.MapThemeData
+  displayName: BonusMap
+  bonusOnly: 1
+  upperObstacle: {fileID: 0}
+  lowerObstacle: {fileID: 0}
+  tallObstacle: {fileID: 0}
+  ground: {fileID: 21300000, guid: 044f5d5737894d01a49163d261eeffec, type: 3}
+  background: {fileID: 21300000, guid: ce82dac29fb943d790851967082d97fe, type: 3}
+  hill: {fileID: 0}
+  hillColorA: {r: 1, g: 1, b: 1, a: 0}
+  hillColorB: {r: 1, g: 1, b: 1, a: 0}
+  cloudColor: {r: 1, g: 1, b: 1, a: 0}

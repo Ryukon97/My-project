@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &674908333159649652
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2423323500051662659}
+  - component: {fileID: 3123658567221323716}
+  m_Layer: 0
+  m_Name: GameAudio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2423323500051662659
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 674908333159649652}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3123658567221323716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 674908333159649652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2262acd98ead498aa68d045fd3edc972, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CookieRun.GameAudio
+  bgm: {fileID: 8300000, guid: 3a4f8b720ae307e4dafc2b5dff7d2622, type: 3}
+  jump: {fileID: 8300000, guid: 2dc18a82cb496544fac304a901f205e5, type: 3}
+  jelly: {fileID: 8300000, guid: 5292097248ffca6409de25f192afda95, type: 3}
+  item: {fileID: 8300000, guid: 13e38a96dd83768458858d74ae520e35, type: 3}
+  hit: {fileID: 8300000, guid: bc9089da6f2d21b4eb5a8749c23c2743, type: 3}
+  gameOver: {fileID: 8300000, guid: 51a4fe8f9f9c49d44a02ccc12380c277, type: 3}
+  button: {fileID: 8300000, guid: 7f8b72ec9a6d5674a9b78c431a7593ea, type: 3}
